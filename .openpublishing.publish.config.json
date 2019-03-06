@@ -14,6 +14,22 @@
       },
       "template_folder": "_themes",
       "version": 0
+    },
+    {
+      "docset_name": "IIS-Administration-ppe",
+      "build_source_folder": "IIS-Administration",
+      "build_output_subfolder": "IIS-Administration-ppe",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
